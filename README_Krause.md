@@ -1,4 +1,4 @@
-# TFM_analysis. Adding short reads into a constrained tree
+# TFM_analysis. Adding short reads to a constrained tree
 
 
 #### 1. Reverse complement R2 read obtained from Sanger sequencing using AliView
